@@ -93,7 +93,7 @@ header p {
 /* ====== قائمة السور في صفحة القارئ ====== */
 .surah-list {
     display: flex;
-    flex-direction: column;
+    flex-direction:column;
     align-items: center;
     margin: 20px auto;
     max-width: 100%;
@@ -219,3 +219,8 @@ audio::-webkit-media-controls-time-remaining-display {
     color: #e63946;
     margin-top: 10px;
 }
+
+
+
+
+
